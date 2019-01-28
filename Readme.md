@@ -1,10 +1,5 @@
-# Github
-:wq
-cd ..
+# Git Course
 
+Este é um repositorio teste para ...
 
-
-
-
-#Github
-
+saiba maissssssaaaaa!
